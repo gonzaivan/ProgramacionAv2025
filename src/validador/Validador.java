@@ -1,10 +1,17 @@
-package def;
+package validador;
 
 import javax.swing.JOptionPane;
 
-public interface Validacion {
+public interface Validador {
+
+	void validar(String dato);
+	default boolean ValidarMail() {
+		
+		return true;
+		
+	}
 	
-	default int ValidarNum(String numero) {
+	static int ValidarNum(String numero) {
 		int num=0;
 		boolean flag;
 		do {
