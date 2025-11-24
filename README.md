@@ -39,7 +39,7 @@ Para correr el proyecto, necesitas ejecutar este script en tu gestor de MySQL (W
 SQL
 
 CREATE DATABASE IF NOT EXISTS srshotel;
-USE srshotel;
+USE househunter;
 
 -- Tabla de Usuarios
 CREATE TABLE IF NOT EXISTS usuario (
