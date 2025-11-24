@@ -1,4 +1,4 @@
-package srshotel;
+package househunter;
 
 public interface IMenu {
     String obtenerMenu(); 

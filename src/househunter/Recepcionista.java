@@ -1,4 +1,4 @@
-package srshotel;
+package househunter;
 
 import javax.swing.JOptionPane;
 

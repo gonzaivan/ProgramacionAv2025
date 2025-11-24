@@ -1,4 +1,4 @@
-package srshotel;
+package househunter;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

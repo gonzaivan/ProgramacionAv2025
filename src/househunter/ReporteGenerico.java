@@ -1,4 +1,4 @@
-package srshotel;
+package househunter;
 
 import java.util.List;
 import java.util.ArrayList;
