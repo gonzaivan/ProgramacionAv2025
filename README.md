@@ -71,6 +71,8 @@ CREATE TABLE IF NOT EXISTS habitacion (
 INSERT INTO usuario (rol, email, contrasena) VALUES 
 ('Recepcionista', 'recepcion@hotel.com', 'dgplq'),
 ('Limpieza', 'limpieza@hotel.com', 'dgplq');
+
+
 2. Librerías
 Asegúrate de agregar el driver mysql-connector-java al Build Path de tu proyecto en Eclipse/IDE.
 
